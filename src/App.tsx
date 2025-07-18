@@ -40,7 +40,7 @@ const DEFAULT_BOARDS: Board[] = [
   {
     id: '1',
     title: 'Welcome Board',
-    content: 'Start writing your thoughts here...',
+    content: '',
     color: 'bg-gradient-to-br from-purple-100 to-pink-100',
     media: []
   }
