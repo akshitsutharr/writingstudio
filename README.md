@@ -117,6 +117,8 @@ And don't forget to ⭐ the repo if you like the project!
 ## 📧 Contact
 
 **Akshit Suthar**
-Linkdin: [@akshitsuthar]([https://twitter.com/akshitsuthar](https://www.linkedin.com/in/akshit-suthar-312407314))
+Linkdin: [https://www.linkedin.com/in/akshit-suthar-312407314](https://www.linkedin.com/in/akshit-suthar-312407314))
+
+
 Project Link: [https://github.com/akshitsutharr/writingstudio](https://github.com/akshitsutharr/writingstudio)
 
