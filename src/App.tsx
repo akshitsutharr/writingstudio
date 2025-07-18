@@ -507,21 +507,6 @@ function App() {
                   <X className="w-3 h-3" />
                 </button>
               </div>
-              <input
-                type="text"
-                value={imageUrl}
-                onChange={(e) => setImageUrl(e.target.value)}
-                placeholder="Paste image URL or link..."
-                className="w-full p-2 border border-slate-300 rounded-lg text-xs mb-2 focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                onKeyPress={(e) => e.key === 'Enter' && handleUrlSubmit()}
-              />
-              <button
-                onClick={handleUrlSubmit}
-                className="w-full p-2 bg-purple-500 text-white rounded-lg text-xs font-medium hover:bg-purple-600 transition-colors flex items-center justify-center gap-1"
-              >
-                <Link className="w-3 h-3" />
-                Add Media
-              </button>
             </div>
           )}
 
